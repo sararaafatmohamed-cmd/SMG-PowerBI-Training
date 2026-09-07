@@ -78,25 +78,26 @@ Different Power BI visuals were practiced, including:
 
 The repository contains **15 practical Power BI tasks** completed during the training.
 
-| Task    | File                      | Main Skills                                            |
-| ------- | ------------------------- | ------------------------------------------------------ |
-| Task 1  | `Business Intelligence 1` | Multi-card, Stacked Bar                                |
-| Task 2  | `Business Intelligence`   | Basic Power BI Visualizations                          |
-| Task 3  | `Fact_Dim`                | Fact & Dimension, Merge, Data Modeling, Relationships  |
-| Task 4  | `R1`                      | Custom Column, Append, Branch Analysis, Visualizations |
-| Task 5  | `R2`                      | Cards, Revenue Analysis, Bar & Column Charts           |
-| Task 6  | `R3`                      | Append                                                 |
-| Task 7  | `R4`                      | Append, Stacked Column Chart                           |
-| Task 8  | `R5`                      | Append                                                 |
-| Task 9  | `R6`                      | Merge, Revenue & Tax Analysis, Visualizations          |
-| Task 10 | `R7`                      | Merge, Expand, Multiple Tables, Creating Tables        |
-| Task 11 | `R8`                      | Data Cleaning, Split Column, Merge, Calculated Columns |
-| Task 12 | `R9`                      | Group By, Aggregations                                 |
-| Task 13 | `R10`                     | Visualizations, Clustered Column, Pie Chart            |
-| Task 14 | `R11`                     | Cards, Slicer, Donut, Funnel, Column Chart             |
-| Task 15 | `R12`                     | From Folder, KPIs, Bar, Donut & Column Charts          |
+| Task    | File                                      | Main Skills                                            |
+| ------- | ----------------------------------------- | ------------------------------------------------------ |
+| Task 1  | `01_Basic_Visualizations`                 | Multi-card, Stacked Bar                                |
+| Task 2  | `02_Basic_Visualizations_2`               | Basic Power BI Visualizations                          |
+| Task 3  | `03_Fact_Dimension_Data_Modeling`         | Fact & Dimension, Merge, Data Modeling, Relationships  |
+| Task 4  | `04_Append_Custom_Column_Branch_Analysis` | Custom Column, Append, Branch Analysis, Visualizations |
+| Task 5  | `05_Revenue_KPIs_Analysis`                | Cards, Revenue Analysis, Bar & Column Charts           |
+| Task 6  | `06_Append_Multiple_Branches`             | Append                                                 |
+| Task 7  | `07_Append_Grades_Visualization`          | Append, Stacked Column Chart                           |
+| Task 8  | `08_Append_Grades`                        | Append                                                 |
+| Task 9  | `09_Merge_Revenue_Tax_Analysis`           | Merge, Revenue & Tax Analysis, Visualizations          |
+| Task 10 | `10_Merge_Expand_Multiple_Tables`         | Merge, Expand, Multiple Tables, Creating Tables        |
+| Task 11 | `11_Data_Cleaning_Calculated_Columns`     | Data Cleaning, Split Column, Merge, Calculated Columns |
+| Task 12 | `12_Group_By_Aggregations`                | Group By, Aggregations                                 |
+| Task 13 | `13_Sales_Visualizations`                 | Visualizations, Clustered Column, Pie Chart            |
+| Task 14 | `14_Interactive_Sales_Dashboard`          | Cards, Slicer, Donut, Funnel, Column Chart             |
+| Task 15 | `15_From_Folder_Sales_Analysis`           | From Folder, KPIs, Bar, Donut & Column Charts          |
 
 > These files are training exercises completed during the SMG program rather than independent business projects.
+
 
 ---
 
