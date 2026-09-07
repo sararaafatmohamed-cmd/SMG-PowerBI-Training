@@ -1,8 +1,9 @@
 # 📊 SMG-PowerBI-Training
 Business Intelligence with Power BI — SMG Training
+
 A one-month practical training in **Business Intelligence (BI) using Microsoft Power BI**.
 
-This repository contains the practical exercises and Power BI files completed during the training, covering different stages of the data analysis workflow, from connecting to data and transforming it to building data models and creating interactive visualizations.
+This repository contains the practical exercises and Power BI files completed during the training, covering different stages of the data analysis workflow, from connecting to data and transforming it to building data models and creating visualizations.
 
 ---
 
@@ -40,8 +41,7 @@ The training focused on practical Power BI skills, including:
 
 ### 🔹 Data Connectivity & Transformation
 
-* Getting data from different sources
-* Using different **Get Data** methods
+* Getting data using different **Get Data** methods
 * Importing data using **From Folder**
 * Cleaning and preparing datasets
 * Splitting columns
@@ -78,23 +78,23 @@ Different Power BI visuals were practiced, including:
 
 The repository contains **15 practical Power BI tasks** completed during the training.
 
-| Task                    | Main Practice                                  |
-| ----------------------- | ---------------------------------------------- |
-| Business Intelligence 1 | Power BI fundamentals & visualization practice |
-| Business Intelligence   | Power BI practice                              |
-| Fact_Dim                | Fact & Dimension tables, Merge & Data Modeling |
-| R1                      | Data transformation & visualization            |
-| R2                      | Data transformation & visualization            |
-| R3                      | Data transformation & visualization            |
-| R4                      | Data transformation & visualization            |
-| R5                      | Data transformation & visualization            |
-| R6                      | Data transformation & visualization            |
-| R7                      | Data transformation & visualization            |
-| R8                      | Data transformation & visualization            |
-| R9                      | Data transformation & visualization            |
-| R10                     | Data transformation & visualization            |
-| R11                     | Data transformation & visualization            |
-| R12                     | Data transformation & visualization            |
+| Task    | File                      | Main Skills                                            |
+| ------- | ------------------------- | ------------------------------------------------------ |
+| Task 1  | `Business Intelligence 1` | Multi-card, Stacked Bar                                |
+| Task 2  | `Business Intelligence`   | Basic Power BI Visualizations                          |
+| Task 3  | `Fact_Dim`                | Fact & Dimension, Merge, Data Modeling, Relationships  |
+| Task 4  | `R1`                      | Custom Column, Append, Branch Analysis, Visualizations |
+| Task 5  | `R2`                      | Cards, Revenue Analysis, Bar & Column Charts           |
+| Task 6  | `R3`                      | Append                                                 |
+| Task 7  | `R4`                      | Append, Stacked Column Chart                           |
+| Task 8  | `R5`                      | Append                                                 |
+| Task 9  | `R6`                      | Merge, Revenue & Tax Analysis, Visualizations          |
+| Task 10 | `R7`                      | Merge, Expand, Multiple Tables, Creating Tables        |
+| Task 11 | `R8`                      | Data Cleaning, Split Column, Merge, Calculated Columns |
+| Task 12 | `R9`                      | Group By, Aggregations                                 |
+| Task 13 | `R10`                     | Visualizations, Clustered Column, Pie Chart            |
+| Task 14 | `R11`                     | Cards, Slicer, Donut, Funnel, Column Chart             |
+| Task 15 | `R12`                     | From Folder, KPIs, Bar, Donut & Column Charts          |
 
 > These files are training exercises completed during the SMG program rather than independent business projects.
 
@@ -123,7 +123,7 @@ Through these practical exercises, I gained hands-on experience with the main st
 
 **Get Data → Clean & Transform → Model Data → Analyze → Visualize**
 
-The training helped me understand how raw data can be prepared and transformed into meaningful business insights using Power BI.
+The training helped me understand how raw data can be prepared, transformed, modeled, analyzed, and presented using Power BI.
 
 ---
 
@@ -131,7 +131,15 @@ The training helped me understand how raw data can be prepared and transformed i
 
 This repository serves as a record of my practical learning journey during the **SMG Business Intelligence with Power BI training**.
 
-It demonstrates my hands-on practice with **Power Query, data transformation, data modeling, and Power BI visualizations**.
+It demonstrates my hands-on practice with:
+
+* **Power Query**
+* **Data Transformation**
+* **Data Cleaning**
+* **Data Modeling**
+* **Fact & Dimension Tables**
+* **Data Visualization**
+* **Power BI Reports**
 
 ---
 
@@ -144,3 +152,7 @@ Aspiring Data Analyst
 
 * LinkedIn: [Sara Raafat](https://www.linkedin.com/in/sarah-raafat-639a88259)
 * Portfolio: [Sara Raafat Portfolio](https://sararaafatmohamed-cmd.github.io/sara-raafat-portfolio/)
+
+---
+
+⭐ This repository documents my practical Power BI learning journey during the SMG training.
